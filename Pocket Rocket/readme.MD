@@ -24,10 +24,11 @@ To get started with the bot, follow these steps:
 
 ## 📁 Configuration Files
 
-### 1. `configs.json` 📜 - Adjust configuration
+### 1. `configs.json` 📜 - Adjust configuration - Game cannot started yet, i will update in the future
 
 ```json
 {
+  "howManyGames":100, 
   "limit": 5, //number of accounts run 1 a row
   "countdown": 300, //time to restarts all the accounts - count by seconds
   "country_time": "vi-VN" //timestamp base on the country
