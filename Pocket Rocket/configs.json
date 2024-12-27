@@ -3,5 +3,6 @@
   "countdown": 300,
   "country_time": "en-US",
   "rewards": 5000,
-  "howManyGames": 100
+  "howManyGames": 100,
+  "delayEachAccount": [1, 81]
 }
