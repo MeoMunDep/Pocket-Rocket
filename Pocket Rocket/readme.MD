@@ -32,14 +32,17 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "howManyGames":100, 
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "rewards": 5000,
+  "howManyGames": 100,
+  "delayEachAccount": [1, 81]
 }
+
 ```
 
-### 2. `datas.txt` 🗂️ -
+### 2. `datas.txt` 🗂️ - Get data from [here](https://t.me/KeoAirDropFreeNe/257/6879).
 
 ```txt
 query_id.../user...
@@ -67,6 +70,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node 1`
+> To run the bot, use the following command: `cd "pocket rocket-main/pocket rocket"; node 1`
 
 🎇Enjoy!
