@@ -1,5 +1,5 @@
 @echo off
-title name Bot
+title Pocket Rocket Bot
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    name BOT SETUP AND RUN SCRIPT
+echo    Pocket Rocket BOT SETUP AND RUN SCRIPT
 echo =================================================================
 echo.
 echo Current directory: %CD%
@@ -97,7 +97,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-node bot
+cd "pocket rocket" && node bot
 pause
 goto MENU
 
