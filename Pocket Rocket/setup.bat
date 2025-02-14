@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    Pocket Rocket BOT SETUP AND RUN SCRIPT
+echo    Pocket Rocket BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
@@ -83,7 +83,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd "pocket rocket" && node bot
+node meomundep
 pause
 goto MENU
 

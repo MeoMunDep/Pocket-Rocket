@@ -51,7 +51,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    Pocket Rocket BOT SETUP AND RUN SCRIPT"
+    echo "    Pocket Rocket BOT SETUP AND RUN SCRIPT by @MeoMunDep"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"
@@ -111,7 +111,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            cd "pocket rocket" && node bot
+            node meomundep
             read -p "Press Enter to continue..."
             ;;
         4)
