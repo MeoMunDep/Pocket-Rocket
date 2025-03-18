@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](https://t.me/pocket_rocket_game_bot?start=dea4d851-9d5c-4e6b-bd72-0508b8b8e807)
+> Help me with your referral [Link](https://t.me/pocket_rocket_game_bot?start=dea4d851-9d5c-4e6b-bd72-0508b8b8e807)
 
 ## 🚀 Getting Started
 
